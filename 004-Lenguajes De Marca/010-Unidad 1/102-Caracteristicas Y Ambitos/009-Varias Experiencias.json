@@ -1,0 +1,35 @@
+{
+  "datos_personales": {
+    "nombre": "Christian",
+    "apellidos": "Egea Laparra",
+    "email": {
+      "personal": "chr2006el@gmail.com",
+      "profesional": "noaano633"
+    }
+  },
+  "formacion": [
+		{
+		  "Centro": "IES Tavernes Blanques",
+		  "Curso": "4 ESO",
+		  "inicio": "2022/03/9",
+		  "final": "2023/06/11"
+		},
+		{
+		  "Centro": "Escuelas Profesionales Luis Amigó",
+		  "Curso": "Grado Superior En Telecomuniaciones",
+		  "Inicio": "2024/09/9",
+		  "Final": "2026/03/4"
+		}
+  ],"Experiencia":
+	 [
+		{
+		  "empresa": "Nuevo Centro",
+		  "posicion": "Mantenimiento",
+		  "inicio": "2024/03/9",
+		  "final": "2026/06/11"
+		}
+	  ],
+  "idiomas": "Inglés, Holandés y Castellano",
+  "conduccion": "No tengo carnet",
+  "hobbies": "Fútbol, jugar a videojuegos y leer"
+}

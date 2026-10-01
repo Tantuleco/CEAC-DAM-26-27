@@ -1,0 +1,15 @@
+{
+	"datos_personales":{
+  	"nombre":"Christian",
+    "apellidos":"Egea Laparra",
+    "email":{
+    	"personal":"chr2006el@gmail.com,
+      "profesional":"noaano633@gmail.com"
+    }
+  },
+  "formacion":"",
+  "experiencia_laboral":"",
+  "idiomas":"",
+  "conduccion":"",
+  "hobbies":""
+}

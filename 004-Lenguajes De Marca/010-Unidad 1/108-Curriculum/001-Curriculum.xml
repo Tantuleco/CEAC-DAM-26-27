@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+  <datos_personales>
+    <nombre>Christian</nombre>
+    <apellidos>Egea Laparra</apellidos>
+    <email>noaano633@gmail.com</email>
+  </datos_personales> 
+  <experiencia_laboral>
+    <experiencia>
+      <empresa>ProComunales Nuevo Centro</empresa>
+      <cargo>Mantenimiento De Redes</cargo>
+      <inicio>2024-05</inicio>
+      <final>2026-06</final>
+    </experiencia>
+  </experiencia_laboral>
+  	<formacion>
+		<centro>Escuelas Profesionales Luis Amigo</centro>
+    	<cargo>Grado Medio Y Superior En Telecomunicaiones</cargo>
+    	<inicio>2022-09</inicio>
+    	<final>2026-06</final>
+ 	</formacion>
+  <formacion>
+	<centro>Escuelas Profesionales Luis Amigo</centro>
+    <cargo>Grado Medio Y Superior En Telecomunicaiones</cargo>
+    <inicio>2022-09</inicio>
+    <final>2026-06</final>
+  </formacion>
+</curriculum>
